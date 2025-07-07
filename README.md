@@ -18,7 +18,7 @@
 
 ## 🖼️ Preview
 
-<img src="public/preview.jpeg" width="640px" height="360px">
+<img src="public/preview.png" width="640px" height="360px">
 
 ---
 
